@@ -1,1 +1,8 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Phicus Backlog
+    url: https://github.com/orgs/phicus/projects/9/views/21
+    about: Project to manage issues and features for all Phicus repositories
+  - name: Contribution guide
+    url: https://github.com/phicus/.github/blob/88e6b5dd274b1a59817bba97ff50c65ee716d88d/.github/CONTRIBUTING.md
+    about: Remember, contributions to this repository should follow its contributing guidelines.
