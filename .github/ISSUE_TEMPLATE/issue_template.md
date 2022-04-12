@@ -46,7 +46,11 @@ Add any other context about the problem here.
 
 ### Versions
 
-You can get this information from UI in the bottom right corner or in the console executing `pip freeze` from virtual env folder.
+*You can get this information:*
+
+* **OS Version**: executing `lsb_release -a` from console.
+* **UI Version**: in the bottom right corner of web application.
+* **Binary version: executing** `pip freeze` inside virtual env folder.
 
 ### Definition of done
 
