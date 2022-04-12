@@ -1,9 +1,8 @@
-name: Bug Report
+name: \U0001F41E Bug Report
 description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
-assignees:
-  - octocat
+title: "\U0001F41E [Bug]: "
+labels: ["bug"]
+assignees: []
 body:
   - type: markdown
     attributes:
