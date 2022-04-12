@@ -1,9 +1,8 @@
 ---
-name: "\U0001F41E Issue Template"
+name: "🧪 Issue Template (TEST ONLY)"
 about: Create a report to help us improve and fix the issue
-title: "\U0001F41E [Bug]"
+title: "🧪 [Bug]"
 labels: bug
-project: 9
 assignees: ''
 
 ---
