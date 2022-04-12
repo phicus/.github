@@ -1,5 +1,5 @@
 ---
-name: "🧪 Issue Template (TEST ONLY)"
+name: "🧪 Issue Template"
 about: Create a report to help us improve and fix the issue
 title: "🧪 [Bug]"
 labels:
